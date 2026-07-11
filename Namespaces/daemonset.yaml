@@ -20,4 +20,4 @@ spec:
         ports:
           - name: daemonport
             containerPort: 80
-            
+...
