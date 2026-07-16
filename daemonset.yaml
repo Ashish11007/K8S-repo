@@ -13,6 +13,6 @@ spec:
       labels:
         app: myapp
     spec:
-      comtainers:
+      containers:
         - name: nginx-container
           image: amzon/cloudwatch-agent
